@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782490720142",
+    "firebase_url": "https://psycare-push.firebaseio.com",
+    "project_id": "psycare-push",
+    "storage_bucket": "psycare-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782490720142:android:35de04a3d93c0758",
+        "android_client_info": {
+          "package_name": "com.example.psycare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782490720142-ihchms816k2h83vnj71ho3kmfsu2mvtl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psycare",
+            "certificate_hash": "f7b75cb6612c2b17dd0005582fb7ee3b8cc61f62"
+          }
+        },
+        {
+          "client_id": "782490720142-igeqn4e3g8bfu4atgqifsmmd6jot9s1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrS35dT-H7gcuMNwVWuxizW-cmXDYrXgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782490720142-igeqn4e3g8bfu4atgqifsmmd6jot9s1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
